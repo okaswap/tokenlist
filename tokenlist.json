@@ -1,0 +1,72 @@
+{
+    "name": "Okaswap",
+    "logoURI": "https://raw.githubusercontent.com/okaswap/tokenlist/refs/heads/main/assets/oka.png",
+    "keywords": ["ve33", "amm", "somnia", "dex"],
+    "timestamp": "2025-12-01 13:00:00",
+    "tokens": [
+        {
+            "chainId": 50312,
+            "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+            "name": "Somnia",
+            "symbol": "STT",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/okaswap/tokenlist/refs/heads/main/assets/somi.png"
+        },
+        {
+            "chainId": 50312,
+            "address": "0x4A3BC48C156384f9564Fd65A53a2f3D534D8f2b7",
+            "name": "Wrapped STT",
+            "symbol": "WSTT",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/okaswap/tokenlist/refs/heads/main/assets/wsomi.png"
+        },
+        {
+            "chainId": 50312,
+            "address": "0x28EC6E9Ef1C1e91462e738108E90ffAc38629d31",
+            "name": "USD Coin",
+            "symbol": "USDC",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/okaswap/tokenlist/refs/heads/main/assets/usdc.png"
+        },
+        {
+            "chainId": 50312,
+            "address": "0x8756FDf0a5ea9FAF4f5f4B5190E28E2E6cD3E7B9",
+            "name": "Tether",
+            "symbol": "USDT",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/okaswap/tokenlist/refs/heads/main/assets/usdt.png"
+        },
+        {
+            "chainId": 50312,
+            "address": "0x0000006701806d9Dcb307395434aD6481e0abb60",
+            "name": "Okaswap",
+            "symbol": "OKA",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/okaswap/tokenlist/refs/heads/main/assets/oka.png"
+        },
+        {
+            "chainId": 50312,
+            "address": "0x8f5C9ca0B9827Df48d0bcb43D9437338435dd832",
+            "name": "Wrapped BTC",
+            "symbol": "WBTC",
+            "decimals": 8,
+            "logoURI": "https://raw.githubusercontent.com/okaswap/tokenlist/refs/heads/main/assets/wbtc.png"
+        },
+        {
+            "chainId": 50312,
+            "address": "0x67fBb3Eb1B01F62892BF80faB1577df1ED73214E",
+            "name": "Wrapped ETH",
+            "symbol": "WETH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/okaswap/tokenlist/refs/heads/main/assets/weth.png"
+        },
+        {
+            "chainId": 50312,
+            "address": "0xDdebB86c3Eaf5Af1eb2612D81A5364E84308705D",
+            "name": "Mock WSTT",
+            "symbol": "mWSTT",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/okaswap/tokenlist/refs/heads/main/assets/mwstt.png"
+        }
+    ]
+  }
